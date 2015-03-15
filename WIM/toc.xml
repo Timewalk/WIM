@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Hypoixa" APIVersion="6" Name="WIM" Description="Wildstar Instant Messanger" Version="">
+    <Script Name="WIM.lua"/>
+    <Form Name="WIM.xml"/>
+</Addon>
